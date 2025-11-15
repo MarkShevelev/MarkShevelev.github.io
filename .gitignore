@@ -1,0 +1,3 @@
+# ignore vim buffer swaps
+*.swp
+*.swn
