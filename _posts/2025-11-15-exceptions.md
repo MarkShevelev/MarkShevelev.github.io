@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Главная проблема исключений
-categories: [blog, programming]
+author: Mark Shevelev
+categories: [programming]
 tags: [exceptions, java, c++]
 published: true
 ---
-# Главная проблема исключений
-
 ### Preamble
 На мой взгляд самая большая неприятность иключений &mdash; невозможность для 
 вызываемого кода (`callee`) определить &laquo;исключительность&raquo; ситуации 
