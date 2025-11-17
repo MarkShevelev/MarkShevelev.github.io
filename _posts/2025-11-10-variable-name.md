@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Короткие имена переменных
 author: Mark Shevelev
 categories: [programming]
