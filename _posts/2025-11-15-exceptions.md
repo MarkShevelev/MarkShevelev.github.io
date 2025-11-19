@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Главная проблема исключений
 author: Mark Shevelev
 categories: [programming]
