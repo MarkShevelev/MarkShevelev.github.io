@@ -1,11 +1,10 @@
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-      <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
+      <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
       <div class="entry">
         {{ post.excerpt }} <!-- This displays the small description -->
       </div>
-      <a href="{{ post.url | relative_url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
